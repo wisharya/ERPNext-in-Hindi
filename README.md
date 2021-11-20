@@ -1,4 +1,6 @@
-# ERPNext in Hindi Course Outline
+## ERPNext in Hindi Course Outline
+
+
 
 ### 1. Introduction to ERP
   - What is ERP?
