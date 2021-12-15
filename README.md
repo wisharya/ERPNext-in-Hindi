@@ -13,7 +13,23 @@
 ### 3. Getting Started with ERPNext
  - The Monolith
  - Overview of Modules
- - Concepts and Terms
+ - Basic Concepts and Terms
+   -  Company
+   -  Customer
+   -  Item
+   -  Account
+   -  Address
+   -  Contact
+   -  Fiscal Year
+   -  Journal Entry
+   -  Payment Entry
+   -  Sales Invoice
+   -  Purchase Invoice
+   -  Currency
+   -  Unit of Measure
+   -  Print Heading
+   -  Web Page
+   -  Blog Post
 
 ### 4. Basic Setup
  - Company Setup
